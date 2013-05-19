@@ -1,0 +1,48 @@
+@import url(http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu:400,400italic|Ubuntu+Condensed);
+
+.content {
+  text-align: left;
+  font-family: 'Ubuntu';
+}
+
+.content a{
+  color: firebrick;
+  font-family: 'Ubuntu Condensed';
+}
+.content h1, .content h2 {
+  color: firebrick;
+  font-family: 'Ubuntu Condensed';
+}
+.content.subsection h1{
+  color: white;
+  background-color: firebrick;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.8) ;
+}
+.content div.rails{
+  margin: auto;
+  height: 112px;
+  width: 87px;
+  background: transparent url(http://rubyonrails.org.es/img/rails_logo.png) no-repeat center;
+}
+.content div.redradix{
+  margin: auto;
+  height: 60px;
+  width: 250px;
+  background: firebrick url(http://redradix.com/assets/logo.png) no-repeat center;
+}
+.content.smbullets > ul {  list-style: none !important; }
+
+.content tt{ font-family: 'Ubuntu Mono';}
+.content pre {margin-top: .5em}
+.content pre code{ font-family: 'Ubuntu Mono'; font-size: 80%;}
+.content.commandline pre code{ white-space: pre-line}
+.content.commandline pre code.command{ font-size: 100%; color: #800000 }
+.content.commandline pre code.result{ font-size: 100%; color: #000}
+
+.content.code pre code{  font-size: 50%;}
+
+strong{ color: #990000}
+
+.content table { width:50%; margin:auto; font-size:200%; text-align:center;line-height: 1.5}
+.content table th { font-weight: bold; color: #990000 }
+.content table td { }
