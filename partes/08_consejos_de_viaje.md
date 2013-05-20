@@ -25,7 +25,7 @@ Mayo 2013
 * Ctrl-F -> "Starting with Rails?"
 * ¿entonces? por ejemplo [Authlogic](https://github.com/binarylogic/authlogic#readme)
 
-!SLIDE smbullets
+!SLIDE smbullets incremental
 ## Ejercicio
 * En el repo teneis: [Authlogic de corta-pega](http://railscasts.com/episodes/160-authlogic?view=asciicast)
 * El que dude, que lo siga (ojo rails 2) hasta quedar igual
@@ -33,7 +33,7 @@ Mayo 2013
 * proteged acciones delicadas con <tt>required\_user</tt>
 * ¿y si hay distintos tipos de usuarios?
 
-!SLIDE
+!SLIDE smbullets incremental
 # ¿y que más?
 * recuperar contraseña por mail
 * activar, bloquear usuarios
