@@ -104,7 +104,7 @@ Mayo 2013
 !SLIDE smbullets incremental
 ## y la magia de nombres
 * truncate
-* pluralize, singularize, humanize, foering\_key
+* pluralize, singularize, humanize, foreing\_key
 * camelize, titleize, underscore, dasherize
 * parametrize, tableize, classify, constantize
 * etc... [ActiveSupport CoreExtensions](http://guides.rubyonrails.org/active_support_core_extensions.html)
